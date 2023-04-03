@@ -1,1 +1,1 @@
-# GitDemo
+Demonstration about Git Basics
