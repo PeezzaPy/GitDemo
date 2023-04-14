@@ -1,0 +1,13 @@
+GITBASH COMMAND CHEATSHEET
+
+// Configuring Git
+git config --global user.name
+git config --global user.email
+// Verify
+git config --list
+
+// Most used
+git status 
+git add filename/. (all)
+git commit -m(message)
+git push -u origin/branch_name
